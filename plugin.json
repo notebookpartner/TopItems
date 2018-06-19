@@ -1,8 +1,8 @@
-    {
-        "name"              :"TopItems",
-        "description"       :"Startpage Top-Items",
-        "namespace"         :"TopItems",
-        "author"            :"Achim Pelster",
-        "type"              :"template",
-        "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider"
-    }
+{
+"name"              :"TopItems",
+"description"       :"Startpage Top-Items",
+"namespace"         :"TopItems",
+"author"            :"Achim Pelster",
+"type"              :"template",
+"serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider"
+}
