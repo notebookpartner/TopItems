@@ -4,5 +4,5 @@
         "namespace"         :"TopItems",
         "author"            :"Achim Pelster",
         "type"              :"template",
-        "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider
+        "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider"
     }
