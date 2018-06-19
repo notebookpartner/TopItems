@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d9b7bd78-7cf6-4fe2-801f-80dcc71cc427" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/resources/views/content/TopItems.twig" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/content/TopItems.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controllers/ContentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/ContentController.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="TopItems.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/content/TopItems.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="73" lean-forward="true" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+            <state relative-caret-position="255">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -175,12 +174,12 @@
       <updated>1529433244328</updated>
       <workItem from="1529433245624" duration="1264000" />
       <workItem from="1529434862772" duration="3000" />
-      <workItem from="1529439459606" duration="840000" />
+      <workItem from="1529439459606" duration="969000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2107000" />
+    <option name="totallyTimeSpent" value="2236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -268,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/content/TopItems.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="73" lean-forward="true" selection-start-line="13" selection-start-column="73" selection-end-line="13" selection-end-column="73" />
+        <state relative-caret-position="255">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
