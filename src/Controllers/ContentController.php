@@ -17,7 +17,11 @@ class ContentController extends Controller
                 'description'
             ],
             'variationBase' => [
-                'id'
+                'id',
+		'availability',
+		'variationName',
+		'active',
+		
             ],
             'variationRetailPrice' => [
                 'price'
