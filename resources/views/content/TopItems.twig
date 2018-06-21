@@ -16,6 +16,9 @@
                         <div>
                             {{ item.itemDescription.description }}
                         </div>
+						<div>
+							{{ item | json_encode() }}
+						</div>
                         <div class="card-footer bg-primary">
                             <h4 style="text-align: center">Price: {{ item.variationRetailPrice.price }} €</h4>
                         </div>
